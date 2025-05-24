@@ -5,6 +5,9 @@
 
 
 ### I have technical experience and interest in:
+* Python
+* SQL
+* Power BI/ Tableau
 * Deep Learning
 * Machine Learning
 * Computer vision 
@@ -46,6 +49,7 @@
 [linkedin]: https://www.linkedin.com/in/Yogesh3453/
 [twitter]: https://twitter.com/YogeshGunjal63667
 [Instagram]: https://www.instagram.com/yoggunjal/
+[HackerRank]: https://www.hackerrank.com/profile/yogeshgunjal75
 
 
 
